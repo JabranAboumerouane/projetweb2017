@@ -1,3 +1,4 @@
+<?php session_start()?>
 <?php
     require 'nav.php';
     if (!empty($_POST['Nom']))
@@ -42,6 +43,8 @@ if (isset($_POST['NOM']),',')==false{
     $VarErrNom ='<div class="alert alert-warning">la zone doit contenir une virgule entre le nom et le prémont</div>';
 }
 }
+
+<form action="session_destroy.php" method="post"
 *\
 
 
