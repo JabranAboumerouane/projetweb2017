@@ -1,0 +1,35 @@
+/*.row{
+	border: 5px solid black;
+}
+article {
+	border: 5px solid black;
+}*/
+h2{
+background-color: blue;
+text-align: center;
+color: rgb(255,255,255);
+}
+aside{
+border:  : 1px solid solid #d4d4d4;
+border-radius: :  : 5px
+margin-top : 10PX 
+
+}
+section {
+border:  : 1px solid solid #d4d4d4;
+border-radius: :  : 5px
+margin-top : 10PX 
+
+}
+footer{
+border:  : 1px solid solid #d4d4d4;
+border-radius: :  : 5px
+margin-top : 10PX 
+padding : 10px;
+font-size: 70%;
+text-align: center;
+}
+*
+{
+	font-family: Arial, Helvetica, sans-serif;
+}
